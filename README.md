@@ -1,16 +1,6 @@
-# weather_submit
+# socket_weather
+Đồ án cuối kì Socket: Dự báo thời tiết.
 
-A new Flutter project.
+Link các tập lệnh: https://docs.google.com/document/d/18pbHCA_lf3dBYiLZbNyuBrQLhxfdn8YZl4mroOQBMPs/edit
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link về bài báo cáo: https://docs.google.com/document/d/1heHVA7J87X7FsYzyaG7JyqcIEC9APpjEjaKI2CIxwCA/edit?usp=sharing
